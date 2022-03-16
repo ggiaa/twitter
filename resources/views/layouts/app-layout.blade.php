@@ -12,7 +12,7 @@
 <x-navbar/>
 <hr>
 
-<div class="container mt-2">
+<div class="container mt-3">
     {{ $slot }}
 </div>
 
